@@ -1,5 +1,5 @@
 # AWS-DeepRacer_train
-Inflearn에서 진행한 AWS DeepRacer 강화학습 훈련 모델입니다.
+AWS DeepRacer reinforcement learning training model
 # AWS DeepRacer Online Competition Best Model
 This model ranks 5th out of 20 in the AWS DeepRacer online competition.
 <img width="952" alt="online-taewoong-car1-model_parameter" src="https://github.com/twyoon99/AWS-DeepRacer_train/assets/118956433/ac725d6c-1e53-4a1f-a1b9-2a0225c0d269">
